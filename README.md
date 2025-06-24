@@ -1,0 +1,36 @@
+# 🔢 Number Image Generator (Streamlit App)
+
+A simple Streamlit web app that generates and displays images of handwritten digits (0–9) using random samples from the MNIST dataset or a custom image generation pipeline. Great for experimenting with digit recognition models or learning about synthetic data generation.
+
+---
+
+## 🚀 Features
+
+- Generate random handwritten digit images (0–9)
+- Display selected digit or random samples
+- Optionally download generated image
+- Clean and interactive Streamlit UI
+
+---
+
+## 🖼 Demo
+
+> 📌 Insert a screenshot or GIF of your Streamlit app here (optional)
+
+---
+
+## 🛠 Tech Stack
+
+- **Python**
+- **Streamlit**
+- **NumPy**
+- **Matplotlib / PIL**
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/number-image-generator.git
+   cd number-image-generator

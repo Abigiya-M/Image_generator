@@ -10,13 +10,6 @@ A simple Streamlit web app that generates and displays images of handwritten dig
 - Display selected digit or random samples
 - Optionally download generated image
 - Clean and interactive Streamlit UI
-
----
-
-## 🖼 Demo
-
-> 📌 Insert a screenshot or GIF of your Streamlit app here (optional)
-
 ---
 
 ## 🛠 Tech Stack

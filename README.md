@@ -32,5 +32,5 @@ A simple Streamlit web app that generates and displays images of handwritten dig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/number-image-generator.git
+   git clone https://github.com/Abigiya-M/image_generator.git
    cd number-image-generator
